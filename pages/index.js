@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import MainNav from "../Components/MainNav/MainNav";
 import styles from "../styles/Home.module.scss";
 
 export default function Home() {
@@ -11,7 +12,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>Hello World</main>
+      <main className={styles.main}>
+        <MainNav />
+      </main>
     </div>
   );
 }
