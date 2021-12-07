@@ -10,6 +10,9 @@ import LastSection from "../Components/LastSection/LastSection";
 import SocialBar from "../Components/SocialBar/SocialBar";
 //
 
+//
+
+// hello world
 export default function Home() {
   return (
     <>
