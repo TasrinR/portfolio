@@ -8,6 +8,7 @@ import CVSection from "../Components/AboutSection/CVSection";
 import BlogSection from "../Components/BlogSection/BlogSection";
 import LastSection from "../Components/LastSection/LastSection";
 import SocialBar from "../Components/SocialBar/SocialBar";
+//
 
 export default function Home() {
   return (
