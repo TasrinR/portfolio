@@ -8,7 +8,7 @@ function HeroSection() {
     <div className={styles.heroWrapper} id="hero">
       <div className={styles.title}>
         <span>
-          Yasin <br /> Khan
+          Kanij <br /> Tasrin
         </span>
       </div>
       <div className={styles.devInfo}>

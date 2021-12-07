@@ -60,7 +60,7 @@
             padding: 0 1em;
             transition: all 0.35s;
             &:hover {
-              color: #45f3ff;
+              color: #eb3b5a;
             }
           }
         }
@@ -68,8 +68,8 @@
       .Resume {
         text-decoration: none;
         font-size: 1em;
-        color: #45f3ff;
-        border: 1px solid #45f3ff;
+        color: #eb3b5a;
+        border: 1px solid #eb3b5a;
         padding: 1em 1.5em;
         margin: 0 20px;
         border-radius: 50px;
@@ -113,19 +113,19 @@
             padding: 0.5em;
             transition: all 0.35s;
             &:hover {
-              color: #45f3ff;
+              color: #eb3b5a;
             }
           }
         }
         .resume {
-          border: 1px solid #45f3ff;
+          border: 1px solid #eb3b5a;
           margin: 0 20px;
           border-radius: 5px;
           margin-bottom: 1.5em;
           > a {
             display: inline-block;
             text-decoration: none;
-            color: #45f3ff;
+            color: #eb3b5a;
             font-size: 1em;
             font-weight: 500;
             padding: 0.35em;

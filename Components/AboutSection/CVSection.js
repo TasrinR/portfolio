@@ -10,17 +10,17 @@ function CVSection() {
           <div className={styles.cvHeader}>
             <div className={styles.headImg}></div>
             <div className={styles.headContent}>
-              <h1>Yasin Khan</h1>
+              <h1>Kanij Tasrin</h1>
               <p>
                 I have project based experience on <br />
                 React, React Native and WordPress
               </p>
             </div>
             <div className={styles.headBtnCon}>
-              <a href="https://www.linkedin.com/in/yk404/" target="_blank">
+              <a href="https://www.linkedin.com/in/kanij-tasrin-4a97231b9/" target="_blank">
                 Linkedin
               </a>
-              <a href="https://github.com/Wild-Hound" target="_blank">
+              <a href="https://github.com/TasrinR" target="_blank">
                 Github
               </a>
             </div>
@@ -30,7 +30,7 @@ function CVSection() {
               <h2>Overview</h2>
               <div>
                 <p>
-                  My name is Yasin and I am a self-taught software developer
+                  My name is Kanij and I am a self-taught software developer
                   currently looking for an opportunity to grow as a web
                   developer.
                   <br />
@@ -195,28 +195,18 @@ function CVSection() {
                   </div>
                 </div>
               </div>
-              <div className={styles.skillWrapper}>
-                <h3>More</h3>
-                <div>
-                  <div className={styles.iconWrapper}>
-                    I also love to develop desktop apps with electron.js,
-                    develop wordpress themes & plugins and make chrome extension
-                    to make my browsing experience better
-                  </div>
-                </div>
-              </div>
             </div>
             <div className={styles.cvBodySec}>
               <h2>Biography</h2>
               <div className={styles.bioDiv}>
                 <div>
-                  <p>Name: Yasin Khan Shejan</p>
+                  <p>Name: Kanij Tasrin</p>
                   <p>Age: 21</p>
                 </div>
                 <div>
-                  <p>Education: CSE(Professional Honours)</p>
+                  <p>Education: ESE(Professional Honours)</p>
                   <p>Experence: Freelance WordPress Developer</p>
-                  <p>Email: yasinkhan4008@gmail.com</p>
+                  <p>Email: kanijtasrin090@gmail.com</p>
                 </div>
               </div>
             </div>
