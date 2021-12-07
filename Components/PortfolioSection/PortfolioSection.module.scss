@@ -1,4 +1,4 @@
-@import "../../styles/BreakPoints.scss";
+// @import "../../styles/BreakPoints.scss";
 
 .portfolioWrapper {
   display: flex;
@@ -26,7 +26,7 @@
         background-color: #45f3ff;
         color: white;
       }
-      @include media("<500px") {
+      @media screen and (max-width: 500px) {
         font-size: 1em;
       }
     }

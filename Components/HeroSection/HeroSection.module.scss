@@ -1,8 +1,8 @@
-@import "../../styles/BreakPoints.scss";
+// @import "../../styles/BreakPoints.scss";
 .heroWrapper {
   height: 100vh;
   position: relative;
-  @include media("<tablet") {
+  @media screen and (max-width: 850px) {
     height: fit-content;
   }
   .title {
@@ -24,7 +24,7 @@
     text-shadow: 0 0 10px #45f3ff, 0 0 10px #45f3ff, 0 0 20px #45f3ff,
       0 0 50px #45f3ff;
     // animation: animate 5s linear;
-    @include media("<tablet") {
+    @media screen and (max-width: 850px) {
       height: 60vw;
       width: 60vw;
       margin-top: -30vw;
@@ -38,7 +38,7 @@
     position: absolute;
     top: 60%;
     left: 3em;
-    @include media("<tablet") {
+    @media screen and (max-width: 850px) {
       top: -3em;
       position: relative;
       left: 0;
