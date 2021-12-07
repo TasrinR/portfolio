@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 // import "../styles/Home.scss";
 import MainNav from "../Components/MainNav/MainNav";
 import HeroSection from "../Components/HeroSection/HeroSection";
