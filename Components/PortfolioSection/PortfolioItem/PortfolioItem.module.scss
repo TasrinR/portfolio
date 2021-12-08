@@ -1,4 +1,4 @@
-@import "../../../styles/Breakpoints.scss";
+// @import "../../../styles/Breakpoints.scss";
 .portfolioWrapper {
   position: relative;
   overflow-y: hidden;
@@ -6,14 +6,14 @@
   .swiperWrapper {
     max-width: 420px;
     max-height: 236px;
-    @include media("<500px") {
+    @media screen and (max-width: 500px) {
       max-width: 300px;
     }
     .swiperItem {
       max-width: 420px;
       max-height: 236px;
       background-color: white;
-      @include media("<500px") {
+      @media screen and (max-width: 500px) {
         max-width: 100%;
       }
       > img {
@@ -21,7 +21,7 @@
         height: 236px;
         object-fit: cover;
         object-position: top;
-        @include media("<500px") {
+        @media screen and (max-width: 500px) {
           max-width: 100%;
         }
       }

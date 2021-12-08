@@ -1,5 +1,4 @@
 import Head from "next/head";
-import Image from "next/image";
 // import "../styles/Home.scss";
 import MainNav from "../Components/MainNav/MainNav";
 import HeroSection from "../Components/HeroSection/HeroSection";
@@ -8,7 +7,11 @@ import CVSection from "../Components/AboutSection/CVSection";
 import BlogSection from "../Components/BlogSection/BlogSection";
 import LastSection from "../Components/LastSection/LastSection";
 import SocialBar from "../Components/SocialBar/SocialBar";
+//
 
+//
+
+// hello world
 export default function Home() {
   return (
     <>

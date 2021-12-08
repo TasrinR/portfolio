@@ -3,11 +3,6 @@ import styles from "./MainNav.module.scss";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDownload, faBars } from "@fortawesome/free-solid-svg-icons";
 import { menuBtnAct } from "./MainNavMech";
-import '@fortawesome/fontawesome-svg-core/styles.css';
-// Prevent fontawesome from adding its CSS since we did it manually above:
-import { config } from '@fortawesome/fontawesome-svg-core';
-config.autoAddCss = false; 
-// import resume from "../Images/yasin_khan.pdf";
 
 function MainNav() {
   return (

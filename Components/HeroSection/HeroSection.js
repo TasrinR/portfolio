@@ -46,7 +46,7 @@ function HeroSection() {
           :)
         </p>
         <div>
-          <a href={"./Resume.pdf"} target="_blank" className={styles.resume}>
+          <a href={"./Kanij_Resume.pdf"} target="_blank" className={styles.resume}>
             Resume
           </a>
         </div>

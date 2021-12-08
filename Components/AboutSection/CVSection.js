@@ -41,7 +41,7 @@ function CVSection() {
                   database, I am familier with firebase cloud functions and
                   netlify cloud functions
                   <br />
-                  <br />I am also adequate knowladge of Python, PHP & Java
+                  <br />I have also adequate knowladge of Python, PHP & Java
                 </p>
               </div>
             </div>

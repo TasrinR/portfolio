@@ -1,4 +1,4 @@
-@import "../../styles/Breakpoints.scss";
+// @import "../../styles/Breakpoints.scss";
 .wrapper {
   width: 95vw;
   height: 75px;
@@ -12,7 +12,7 @@
   left: 50%;
   transform: translateX(-50%);
   z-index: 5;
-  @include media("<=1000px") {
+  @media screen and (max-width: 1000px) {
     position: sticky;
     top: 0;
     left: 0;
@@ -48,7 +48,7 @@
         margin-left: auto;
         list-style: none;
         padding: 0;
-        @include media("<=1000px") {
+        @media screen and (max-width: 1000px) {
           display: none;
         }
         .link {
@@ -73,7 +73,7 @@
         padding: 1em 1.5em;
         margin: 0 20px;
         border-radius: 50px;
-        @include media("<=1000px") {
+        @media screen and (max-width: 1000px) {
           display: none;
         }
       }
@@ -87,7 +87,7 @@
         font-size: 1.5em;
         cursor: pointer;
         display: none;
-        @include media("<=1000px") {
+        @media screen and (max-width: 1000px) {
           display: block;
         }
       }
