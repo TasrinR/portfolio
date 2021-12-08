@@ -31,7 +31,6 @@ export default function Home() {
             <HeroSection />
             <PortfolioSection />
             <CVSection />
-            <BlogSection />
             <LastSection />
           </div>
           <div className="socialSideBar">
