@@ -16,14 +16,14 @@
       font-size: 1.25em;
       padding: 5px 10px;
       background-color: transparent;
-      color: #45f3ff;
-      border: 1px solid #45f3ff;
+      color: #eb3b5a;
+      border: 1px solid #eb3b5a;
       outline: none;
       cursor: pointer;
       min-width: fit-content;
       transition: all 0.35s;
       &:hover {
-        background-color: #45f3ff;
+        background-color: #eb3b5a;
         color: white;
       }
       @media screen and (max-width: 500px) {

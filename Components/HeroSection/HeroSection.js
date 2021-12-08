@@ -8,7 +8,7 @@ function HeroSection() {
     <div className={styles.heroWrapper} id="hero">
       <div className={styles.title}>
         <span>
-          Yasin <br /> Khan
+          Kanij <br /> Tasrin
         </span>
       </div>
       <div className={styles.devInfo}>
@@ -46,7 +46,7 @@ function HeroSection() {
           :)
         </p>
         <div>
-          <a href={"./Resume.pdf"} target="_blank" className={styles.resume}>
+          <a href={"./Kanij_Resume.pdf"} target="_blank" className={styles.resume}>
             Resume
           </a>
         </div>
